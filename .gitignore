@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# env
+.env
+
+# shopify
+shopify/assets
+shopify/sections
+shopify/config/settings_data.json
